@@ -1,0 +1,7 @@
+.pink {
+  --background-color: pink;
+}
+
+.test {
+  background-color: var(--background-color);
+}

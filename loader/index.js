@@ -1,0 +1,1 @@
+export * from '../dist/esm/es5/ie11.define.js';
